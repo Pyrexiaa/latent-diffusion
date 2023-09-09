@@ -1,4 +1,4 @@
-# Latent Diffusion Models
+# Latent Diffusion Models Test
 [arXiv](https://arxiv.org/abs/2112.10752) | [BibTeX](#bibtex)
 
 <p align="center">
